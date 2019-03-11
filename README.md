@@ -49,7 +49,7 @@ Add this to your build.grade:
 and then in dependencies:
 ```javascript
 	dependencies {
-      implementation 'com.github.sadeghpro:AndroidSplash:v1.0.1'
+      implementation 'com.github.sadeghpro:AndroidSplash:v1.0.2'
 	}
 ```
 
