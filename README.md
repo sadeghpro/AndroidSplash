@@ -56,8 +56,8 @@ and then in dependencies:
 Here is how you utilze the library in your java code:
 
 ```java
-//extends AwesomeSplash!
-public class YourActivity extends AwesomeSplash {
+//extends AndroidSplash!
+public class YourActivity extends AndroidSplash {
 
 	//DO NOT OVERRIDE onCreate()!
 	//if you need to start some services do it in initSplash()!
